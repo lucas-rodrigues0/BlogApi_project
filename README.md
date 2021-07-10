@@ -49,7 +49,8 @@ Construi endpoints para consumir esses models e fazer um CRUD com o sequelize.
 13 - GET post/search?q=:searchTerm
  >Leitura de artigo especifico. Precisa do token gerado no login para o acesso. Será pesquisado usando o parametro 'q=:searchTerm', onde o termo `:searchTerm` deva ser substituido por algum termo no `title` ou no `content` do artigo.
   
- <br />
+ <br/>
+ 
  **Realizado em NodeJS com o framework express**
  
  **Banco de dados utilizado: MySQL**

@@ -6,7 +6,7 @@ Projeto criado no curso da Trybe no módulo de Desenvolvimento em Back-End.
 
 Nesse projeto, o objetivo foi construir um back-end usando ORM com o pacote sequelize do npm.
 
-Criou e fez a associação de tabelas usando models do sequelize
+Criei e fiz a associação de tabelas usando models do sequelize
 Construi endpoints para consumir esses models e fazer um CRUD com o sequelize.
 
 ## Endpoints gerados:
